@@ -1,0 +1,1 @@
+# Un-script-bash-que-realice-un-backup-de-varios-directorios-completos-y-mas-tarde-los-elimine
